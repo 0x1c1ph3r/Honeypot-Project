@@ -20,7 +20,7 @@ This lightweight and customizable honeypot service emulates realistic services o
     ```
 2. Run the honeypot script:
     ```bash
-    python honeypot.py
+    python3 honeypot.py
     ```
 
 ## **Customizing the Honeypot**
